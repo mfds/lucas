@@ -1,0 +1,10 @@
+<lucas>
+  <out>screen</out>
+  <ca>
+    <rule>222</rule>
+    <size>100</size>
+    <moves>100</moves>
+    <pattern>one-central</pattern>
+  </ca>
+
+</lucas>

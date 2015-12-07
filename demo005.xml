@@ -1,0 +1,9 @@
+<lucas>
+  <out>screen</out>
+  <ca>
+    <rule>120</rule>
+    <size>1280</size>
+    <moves>50000</moves>
+    <pattern>random</pattern>
+  </ca>
+</lucas>

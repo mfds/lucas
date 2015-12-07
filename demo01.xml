@@ -1,0 +1,33 @@
+<lucas>
+  <out>screen</out>
+  <ca>
+    <rule>224</rule>
+    <size>131</size>
+    <moves>50</moves>
+    <pattern>one-central</pattern>
+  </ca>
+
+  <ca>
+    <rule>224</rule>
+    <size>131</size>
+    <moves>50</moves>
+    <pattern>random</pattern>
+  </ca>
+
+  <ca>
+    <rule>250</rule>
+    <size>131</size>
+    <moves>350</moves>
+    <pattern>one-central</pattern>
+  </ca>
+
+  <ca>
+    <rule>250</rule>
+    <size>131</size>
+    <moves>50</moves>
+    <pattern>random</pattern>
+  </ca>
+
+
+
+</lucas>
